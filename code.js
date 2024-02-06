@@ -1,3 +1,10 @@
+/*
+    Keifer Buss 
+    COSC-3020-01 
+    Last modified Feb. 06 2024
+    Sources: None for this program
+*/
+
 function fib(n) {
     switch (n){
         case 0:
