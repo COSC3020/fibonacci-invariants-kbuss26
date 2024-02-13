@@ -43,5 +43,5 @@ After the array is created, one can finish the induction step by using the execu
 summing the last two elements in the invariant, assuming the array contains at least two
 elements (n > 1, where n represents the invariant's upper bound: `[0,n]`).
 
-Therefore, I see a good invariant for `fib()` to be the correct Fibonacci sequence from
-0 to n - 1, n > 1.
+Therefore, I see a good invariant for `fib()` to be the temporary array to be the correct 
+Fibonacci sequence from 0 to n - 1, n > 1.
